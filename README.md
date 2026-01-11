@@ -1,7 +1,7 @@
 # Hey, I’m Hillary 👋
 
 Product designer turned builder.  
-I like turning messy ideas into things that actually ship, with a little help from AI.
+I like turning messy ideas into things that actually ship, with the help from AI.
 
 I build by solving **one real pain point at a time**, learning in public, and caring a lot about how things feel to use.
 
