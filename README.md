@@ -1,101 +1,113 @@
-# Hi, I’m Hillary 👋
+# Hey, I’m Hillary 👋
 
-Product designer → builder, focused on building the right way with the help of AI.
+Product designer turned builder.  
+I like turning messy ideas into things that actually ship, with a little help from AI.
 
-I design, prototype, and ship digital products by solving **one real pain point at a time**.  
-My work sits at the intersection of product thinking, engineering, and practical execution.
-
----
-
-## 👩‍💻 What I Do
-
-- Product Designer turned Design Engineer / Builder  
-- Build production-ready apps, not just prototypes  
-- Use AI as a thinking partner, not a shortcut  
-- Strong bias toward shipping, learning, and iterating  
-
-I believe the best way to learn is by building, and the best products are grounded in real human problems.
+I build by solving **one real pain point at a time**, learning in public, and caring a lot about how things feel to use.
 
 ---
 
-## 🧠 Background & Experience
+## What I’m About 🧩
 
-- Product Design Lead for **U by Prodia** (health tech)  
-- Designed for large-scale platforms:
-  - Telecom product with **17M+ monthly active users**
-  - National healthcare platform
-- Led impactful redesigns:
-  - **+1700% conversion increase** in a fintech marketplace
-  - Scaled a community platform from **20,000 → 70,000+ users** (250% growth)
+- Designer → Design Engineer → Builder (yes, self-taught)
+- I ship production apps, not just pretty prototypes
+- I use AI as a thinking partner, not a magic button
+- Strong bias toward doing, learning, and iterating
 
-I’ve lived, studied, and worked across **Malaysia, Singapore, Indonesia, and Vietnam**, and I’m comfortable building for diverse, global audiences.
+I believe the fastest way to grow is to build things that people actually use.
 
 ---
 
-## 🚧 What I’m Building Now
+## A Bit of Background 🌍
 
-### 🌱 Waymark (Primary Focus)
+I’ve worked on products across health tech, fintech, community platforms, telecom, and now faith-based tools.
+
+Some highlights:
+- Helped redesign key journeys in a fintech marketplace that led to a **1700% conversion increase**
+- Scaled a community platform from **20k to 70k+ users**
+- Designed for large-scale products, including one with **17M+ monthly active users**
+
+I’ve lived, studied, and worked across **Malaysia, Singapore, Indonesia, and Vietnam**, so building for diverse users feels natural to me.
+
+---
+
+## What I’m Building Right Now 🚧
+
+### 🌱 Waymark (main focus)
 **Status:** In progress, beta soon  
 **Website:** https://www.getwaymark.app  
 
-A modern guide that helps people understand God’s Word through daily life.
+Waymark is a modern guide that helps people understand God’s Word in the context of everyday life.
 
-**Who it’s for**
-- New Christians or seekers who feel curious but overwhelmed  
-- Returning Christians or those feeling spiritually stuck  
+It’s for:
+- Curious seekers who feel overwhelmed or intimidated  
+- People returning to faith after a long break  
+- Anyone who feels spiritually stuck and wants clarity, not pressure  
 
-Waymark lowers the cognitive and emotional barrier to faith through clarity, empathy, and real-life application.
+My goal is to make faith feel more approachable, grounded, and human.
 
----
-
-### 🧭 TripLuvora (Experimental)
-
-A travel concept that helps people find neighborhoods that match their vibe, like getting advice from a well-traveled friend instead of a generic hotel search.
-
-Currently on hold, but it continues to influence how I think about personalization and discovery.
-
----
-
-## 📚 What I’m Learning
-
-Currently focused on building **production apps**, not tutorials:
-
-- React Native  
-- Expo  
-- Next.js  
-- Framer Motion  
-- Supabase  
-
-Tool I enjoy working with most right now: **Cursor**
+<a href="https://www.producthunt.com/products/waymark-3?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-waymark-4" target="_blank" rel="noopener noreferrer">
+  <img 
+    alt="Waymark - Understand God’s Word for everyday life | Product Hunt" 
+    width="250" 
+    height="54" 
+    src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1060725&theme=neutral&t=1768123778342" 
+  />
+</a>
 
 ---
 
-## 🔎 How I Think About Building
+### 🧭 TripLuvora (experimental)
+A side project that started with a simple question:  
+“What if finding where to stay felt like getting advice from a well-traveled friend?”
 
-- Solve real problems, small or big  
-- Learn by building, not waiting  
-- Focus on what you can control, leave what you can’t  
-- Progress over perfection, always  
-
----
-
-## ✨ Fun Facts
-
-- Career path: Graphic Designer → Product Designer → Builder (self-taught)  
-- Comfortable adapting to new cultures and environments  
-- Enjoys working on products in unfamiliar domains  
-- Actively looking to move to a new country in the near future  
+It’s on pause for now, but it continues to shape how I think about personalization and discovery.
 
 ---
 
-## 🤝 Let’s Connect
+## What I’m Learning 📚
+
+Right now I’m focused on building **real, production-ready apps**, not tutorials:
+
+- React Native
+- Expo
+- Next.js
+- Framer Motion
+- Supabase
+
+Tool I’m enjoying the most lately: **Cursor**  
+It feels like pair-programming, minus the awkward silence.
+
+---
+
+## How I Think About Building 🧠
+
+- Solve real problems, even if they start small
+- Learn by building, not waiting until you feel “ready”
+- Focus on what you can control, leave the rest
+- Progress beats perfection every time
+
+---
+
+## Fun Facts ✨
+
+- Started in graphic design, moved into product design, now building end-to-end
+- Very comfortable jumping into unfamiliar industries
+- Used to adapting to new countries and cultures
+- Actively planning my next international move
+
+---
+
+## Let’s Connect 🤝
 
 - Portfolio: https://hillaryux.com  
 - LinkedIn: https://www.linkedin.com/in/hillarynjo  
-- Waymark: https://www.getwaymark.app  
+- Waymark: https://www.getwaymark.app
 
-**Open to:**  
-Product Engineer roles, AI Engineer roles, and connecting with other builders who care about building meaningful products.
+I’m open to Product Engineer and AI Engineer roles, and always happy to connect with other builders who care about shipping thoughtful products.
+
+If you’re building something interesting, I’d love to hear about it.
+
 
 ---
 
