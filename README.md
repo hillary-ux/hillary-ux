@@ -3,14 +3,21 @@
 <!--
 **hillary-ux/hillary-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💫 About Me:
+# Hi, I’m Hillary 👋  <br><br>Product designer → builder, focused on building the right way with the help of AI.<br><br>I design, prototype, and ship digital products by solving **one real pain point at a time**.  <br>My work sits at the intersection of product thinking, engineering, and practical execution.<br><br>---<br><br>## 👩‍💻 What I Do<br><br>- Product Designer turned Design Engineer / Builder  <br>- Build production-ready apps, not just prototypes  <br>- Use AI as a thinking partner, not a shortcut  <br>- Strong bias toward shipping, learning, and iterating  <br><br>I believe the best way to learn is by building, and the best products are grounded in real human problems.<br><br>---<br><br>## 🧠 Background & Experience<br><br>- Product Design Lead for **U by Prodia** (health tech)  <br>- Designed for large-scale platforms:<br>  - Telecom product with **17M+ monthly active users**<br>  - National healthcare platform<br>- Led impactful redesigns:<br>  - **+1700% conversion increase** in a fintech marketplace<br>  - Scaled a community platform from **20,000 → 70,000+ users** (250% growth)<br><br>I’ve lived, studied, and worked across **Malaysia, Singapore, Indonesia, and Vietnam**, and I’m comfortable building for diverse, global audiences.<br><br>---<br><br>## 🚧 What I’m Building Now<br><br>### 🌱 Waymark (Primary Focus)<br>**Status:** In progress, beta soon  <br>**Website:** https://www.getwaymark.app  <br><br>A modern guide that helps people understand God’s Word through daily life.<br><br>**Who it’s for:**<br>- New Christians or seekers who feel curious but overwhelmed  <br>- Returning Christians or those feeling spiritually stuck  <br><br>Waymark is designed to lower the cognitive and emotional barrier to faith, focusing on clarity, empathy, and real-life application.<br><br>---<br><br>### 🧭 TripLuvora (Experimental)<br>A travel concept that helps people find neighborhoods that match their vibe, like getting advice from a well-traveled friend instead of a generic hotel search.<br><br>Currently on hold, but the idea continues to influence how I think about personalization and discovery.<br><br>---<br><br>## 📚 What I’m Learning<br><br>Currently focused on building **production apps**, not tutorials:<br><br>- React Native  <br>- Expo  <br>- Next.js  <br>- Framer Motion  <br>- Supabase  <br><br>Tool I enjoy working with most right now: **Cursor**<br><br>---<br><br>## 🔎 How I Think About Building<br><br>- Solve real problems, small or big  <br>- Learn by building, not waiting  <br>- Focus on what you can control, leave what you can’t  <br>- Progress over perfection, always  <br><br>---<br><br>## ✨ Fun Facts<br><br>- Career path: Graphic Designer → Product Designer → Builder (fully self-taught)  <br>- Comfortable adapting to new cultures and environments  <br>- Enjoys working on products in unfamiliar domains  <br>- Actively looking to move to a new country in the near future  <br><br>---<br><br>## 🤝 Let’s Connect<br><br>- Portfolio: https://hillaryux.com/   <br>- LinkedIn: https://www.linkedin.com/in/hillarynjo/<br>- Waymark: https://www.getwaymark.app  <br><br>**Open to:**  <br>Product Engineer roles, AI Engineer roles, and connecting with other builders who care about building meaningful products.<br><br>If you’re building something interesting or thinking deeply about product, feel free to reach out.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hillarynjo) 
+
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hillary-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hillary-ux&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hillary-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hillary-ux&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
