@@ -100,7 +100,7 @@ It feels like pair-programming, minus the awkward silence.
 
 ## Let’s Connect 🤝
 
-- Portfolio: https://hillaryux.com  
+- Portfolio: https://hillarynjo.framer.website
 - LinkedIn: https://www.linkedin.com/in/hillarynjo  
 - Waymark: https://www.getwaymark.app
 
